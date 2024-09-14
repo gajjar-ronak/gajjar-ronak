@@ -15,15 +15,6 @@ I’m passionate about creating seamless, efficient, and scalable digital experi
 
 ---
 
-## 🏆 **Accomplishments**
-- 🏗️ **Headless Commerce Architecture**: Improved front-end flexibility and reduced server response times by 20%.
-- 🔄 **Microservices**: Boosted system scalability and maintainability through microservice architecture design.
-- ⚡ **Performance Optimization**: Reduced page load times by 40% by implementing high-performance static websites.
-- 📚 **Reusable Component Libraries**: Built a Storybook library with 100+ reusable React components, cutting development time by 25%.
-- 🔍 **API Development & Testing**: Designed and tested RESTful APIs, ensuring seamless data integration and retrieval.
-
----
-
 ## 🛠 **Tech Stack**
 
 ### **Languages & Frameworks**
