@@ -40,10 +40,8 @@ I’m passionate about creating seamless, efficient, and scalable digital experi
 ---
 
 ## 💡 **What I’m Learning**
-- 🧠 **Deepening my expertise in microservice architecture and distributed systems.**
+- 🧠 **Deepening my expertise in Deep Learning and advance AI tools.**
 - 📈 **Continuously optimizing front-end performance using new frameworks and tools.**
-- 🎨 **Expanding my UI/UX design skills with a focus on accessibility and usability.**
-
 ---
 
 ## 📫 **Let’s Connect!**
