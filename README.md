@@ -27,7 +27,7 @@
 ---
 
 ## 📫 **Let’s Connect!**  
-[LinkedIn](https://www.linkedin.com/in/ronak-gajjar/) | [Portfolio](https://info-ronakgajjar.netlify.app/) | [Email](mailto:ronakgajjar.de@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ronak-gajjar/) |[Xing](https://www.xing.com/profile/Ronak_Gajjar061231) | [Portfolio](https://info-ronakgajjar.netlify.app/) | [Email](mailto:ronakgajjar.de@gmail.com)
 
 ---
 
